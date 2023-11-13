@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@supabase/gotrue-js": "^2.57.0"
+  },
+  "devDependencies": {
+    "supabase": "^1.111.3"
+  }
+}
